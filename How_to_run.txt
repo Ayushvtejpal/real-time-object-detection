@@ -1,0 +1,4 @@
+step 1> Download the source code
+step 2> Open folder  in  terminal and do "pip install -r requeirments.txt"
+step 3> Search on Your faviourate browser for "yolov3-tiny.weights"
+step 4> Open the same terminal and now paste this command "python main.py"
